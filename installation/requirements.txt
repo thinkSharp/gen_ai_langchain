@@ -1,0 +1,12 @@
+langchain
+langchainhub
+langchain-community
+langchain-huggingface
+langchain-aws
+langchain-chroma
+transformers
+torch
+boto3
+beautifulsoup4
+python-dotenv
+gradio
